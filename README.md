@@ -20,6 +20,7 @@ Windows to dla mnie puzzle do rozłożenia na części pierwsze, AI – pole do 
 
 | Projekt | Opis |
 |---------|------|
+| [technoporada.github.io](https://technoporada.github.io) | Strona osobista — Matrix cyberpunk portfolio |
 | [ArekBox-Installer](https://github.com/technoporada/ArekBox-Installer) | Modularny toolkit dla Linuxa — 12 modułów: AI, Dev, Multimedia, Security i więcej |
 | [Zofia TTS](https://github.com/technoporada/Zofia_TTS_assistant) | Polski asystent głosowy na Ollamie — TTS, newsy, muzyka, lokalne AI |
 | [aiarena](https://github.com/technoporada/aiarena) | Next.js 15 scaffold — shadcn/ui, Prisma, TypeScript, gotowe pod AI |
