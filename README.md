@@ -28,7 +28,10 @@ Windows to dla mnie puzzle do rozłożenia na części pierwsze, AI – pole do 
 | [coffee-matrix](https://github.com/technoporada/coffee-matrix) | Matrix rain w czystym HTML/CSS/JS |
 | [zlepek](https://github.com/technoporada/zlepek) | Eksperymenty: Linux + Windows + lokalna AI |
 | [Arek_OS](https://github.com/technoporada/Arek_OS) | PowerShell customization toolkit dla Windows |
-
+| [Privacy Guardian](https://github.com/technoporada/privacy-guardian) | Lokalny system ochrony prywatności dla Windows (Python + Tkinter) |
+| [Windows Security Toolkit](https://github.com/technoporada/windows-security-toolkit) | PowerShell skrypty: malware scan, registry repair, mega scanner |
+| [Matrix Hacker Dashboard](https://github.com/technoporada/matrix-hacker-dashboard) | Hacker-themed dashboard: Node.js API + React frontend z Matrix rain |
+ 
 ### 🔍 Moje zasady w sieci:
 
 ⚡ Prywatność to nie paranoja – to świadomy wybór.  
