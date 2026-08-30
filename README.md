@@ -9,16 +9,11 @@ Windows to dla mnie puzzle do rozłożenia na części pierwsze, AI – pole do 
 
 43 lata, szkoła zawodowa, samouk. Piszę skrypty od mIRC-a (20 lat temu) przez PowerShell, bash, Pythona, po TypeScript. Od 4 lat korzystam z AI jako asystenta kodowania. Wszystko lokalnie, offline-first.
 
-<<<<<<< HEAD
-### 💡 Czym się zajmuję?
-
-=======
 Pseudonim **h5n1** pochodzi z czasów IRC (ok. 2001) — tam zaczęła się moja przygoda ze skryptami i automatyzacją.
 
 ### 💡 Czym się zajmuję?
 
 🔹 **Automatyzacja** – jeśli muszę coś zrobić drugi raz, piszę skrypt.  
->>>>>>> b883ff8 (Aktualizacja profilu: nowe projekty, filozofia, historia h5n1)
 🔹 **Minimalizm cyfrowy** – mniej procesów, więcej kontroli.  
 🔹 **Lokalne AI** – bo dane powinny zostawać u mnie.  
 🔹 **Cyberbezpieczeństwo** – nie na poziomie korpo, ale wystarczająco, żeby nie dać się złapać na tanie sztuczki.  
@@ -28,25 +23,11 @@ Pseudonim **h5n1** pochodzi z czasów IRC (ok. 2001) — tam zaczęła się moja
 
 | Projekt | Opis |
 |---------|------|
-<<<<<<< HEAD
-| [technoporada.github.io](https://technoporada.github.io) | Strona osobista — Matrix cyberpunk portfolio |
-| [ArekBox-Installer](https://github.com/technoporada/ArekBox-Installer) | Modularny toolkit dla Linuxa — 12 modułów: AI, Dev, Multimedia, Security i więcej |
-| [Zofia TTS](https://github.com/technoporada/Zofia_TTS_assistant) | Polski asystent głosowy na Ollamie — TTS, newsy, muzyka, lokalne AI |
-| [aiarena](https://github.com/technoporada/aiarena) | Next.js 15 scaffold — shadcn/ui, Prisma, TypeScript, gotowe pod AI |
-| [secrets-ai](https://github.com/technoporada/secrets-ai) | Crowdsourced — "Tell me your secret" od różnych AI |
-| [coffee-matrix](https://github.com/technoporada/coffee-matrix) | Matrix rain w czystym HTML/CSS/JS |
-| [zlepek](https://github.com/technoporada/zlepek) | Eksperymenty: Linux + Windows + lokalna AI |
-| [Arek_OS](https://github.com/technoporada/Arek_OS) | PowerShell customization toolkit dla Windows |
-| [Privacy Guardian](https://github.com/technoporada/privacy-guardian) | Lokalny system ochrony prywatności dla Windows (Python + Tkinter) |
-| [Windows Security Toolkit](https://github.com/technoporada/windows-security-toolkit) | PowerShell skrypty: malware scan, registry repair, mega scanner |
-| [Matrix Hacker Dashboard](https://github.com/technoporada/matrix-hacker-dashboard) | Hacker-themed dashboard: Node.js API + React frontend z Matrix rain |
- 
-=======
 | [arek-bootstrap](https://github.com/technoporada/arek-bootstrap) | **Self-setup**: jeden skrypt stawia projekt od zera (venv, zależności, audyt) + generator nowych projektów |
 | [softhunt](https://github.com/technoporada/softhunt) | Agregator darmowych gier — Steam, Epic, itch, Reddit (FastAPI + SQLite) |
 | [deal-collector](https://github.com/technoporada/deal-collector) | Asynchroniczny agregator okazji — SteamDB, Epic, GOG, SharewareOnSale (aiohttp) |
 | [arek-scan-suite-demo](https://github.com/technoporada/arek-scan-suite-demo) | Edukacyjny skaner portów — tylko własne sieci, w granicach prawa |
-| [ArckBox-Installer](https://github.com/technoporada/ArekBox-Installer) | Modularny toolkit dla Linuxa — AI, Dev, Multimedia, Security |
+| [ArekBox-Installer](https://github.com/technoporada/ArekBox-Installer) | Modularny toolkit dla Linuxa — AI, Dev, Multimedia, Security |
 | [arekboxJP](https://github.com/technoporada/arekboxJP) | Alternatywna, japońska edycja narzędzi systemowych |
 | [Zofia TTS](https://github.com/technoporada/Zofia_TTS_assistant) | Polski asystent głosowy na Ollamie — TTS, newsy, muzyka, lokalne AI |
 | [Matrix Hacker Dashboard](https://github.com/technoporada/matrix-hacker-dashboard) | Recon dashboard: Node.js API + React frontend z Matrix rain, security-first |
@@ -64,17 +45,12 @@ weryfikacja i przerabianie — moje. Wystarczy spojrzeć na `arek-bootstrap`:
 praktyki zbierane przez lata, wgranę w jeden skrypt, żeby kolejni nie musieli
 przechodzić tych samych błędów.
 
->>>>>>> b883ff8 (Aktualizacja profilu: nowe projekty, filozofia, historia h5n1)
 ### 🔍 Moje zasady w sieci:
 
 ⚡ Prywatność to nie paranoja – to świadomy wybór.  
 ⚡ Optymalizacja > domyślne ustawienia.  
 ⚡ AI? Tak, ale lokalnie i na moich warunkach.  
-<<<<<<< HEAD
-⚡ Kod generowany przez AI? To narzędzie, nie wstyd. Liczy się efekt.  
-=======
 ⚡ Skaner? Piszesz go do nauki — nie do krzywdzenia. Granice są po to, by je szanować.  
->>>>>>> b883ff8 (Aktualizacja profilu: nowe projekty, filozofia, historia h5n1)
 
 ### 📊 GitHub Stats
 
@@ -87,8 +63,4 @@ Nie znajdziesz mnie na social media. Ale jeśli masz temat warty uwagi – otwó
 
 🚀 **Nie lubię schematów, ale lubię testować granice.** Jeśli masz podobne podejście – witaj w klubie.
 
-<<<<<<< HEAD
 💾 *Prawdziwy kod nie jest pisany, lecz odkrywany.*
-=======
-💾 *Prawdziwy kod nie jest pisany, lecz odkrywany.*
->>>>>>> b883ff8 (Aktualizacja profilu: nowe projekty, filozofia, historia h5n1)
