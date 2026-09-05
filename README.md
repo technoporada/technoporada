@@ -27,6 +27,7 @@ Pseudonim **h5n1** pochodzi z czasów IRC (ok. 2001) — tam zaczęła się moja
 | ⭐ [softhunt](https://github.com/technoporada/softhunt) | Agregator darmowych gier — Steam, Epic, itch, Reddit (FastAPI + SQLite) |
 | ⭐ [awesome-core](https://github.com/technoporada/awesome-core) | Offline tool manager — 234k narzędzi z awesome list; CLI/TUI/Web, dane pobierane przy pierwszym uruchomieniu |
 | ⭐ [matrix-command](https://github.com/technoporada/matrix-command) | Security recon dashboard — FastAPI + Matrix rain UI, scrapers, usługi sieciowe/prywatność |
+| ⭐ [security-rocket](https://github.com/technoporada/security-rocket) | Hardening Linuxa w czystym bashu — SSH/UFW/AppArmor/sysctl/AIDE, preflight, backup, blokada lockoutu SSH, rollback |
 | [arek-bootstrap](https://github.com/technoporada/arek-bootstrap) | **Self-setup**: jeden skrypt stawia projekt od zera (venv, zależności, audyt) + generator nowych projektów |
 | [deal-collector](https://github.com/technoporada/deal-collector) | Asynchroniczny agregator okazji — SteamDB, Epic, GOG, SharewareOnSale (aiohttp) |
 | [arek-scan-suite-demo](https://github.com/technoporada/arek-scan-suite-demo) | Edukacyjny skaner portów — tylko własne sieci, w granicach prawa |
