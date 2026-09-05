@@ -23,20 +23,23 @@ Pseudonim **h5n1** pochodzi z czasów IRC (ok. 2001) — tam zaczęła się moja
 
 | Projekt | Opis |
 |---------|------|
+| ⭐ [persona-arena-versus](https://github.com/technoporada/persona-arena-versus) | **AI arena walki person** — LLM scoring, macierz ocen, werdykty, TTS. CLI + Gradio, robustny parser JSON, mock backend na dema |
+| ⭐ [softhunt](https://github.com/technoporada/softhunt) | Agregator darmowych gier — Steam, Epic, itch, Reddit (FastAPI + SQLite) |
+| ⭐ [awesome-core](https://github.com/technoporada/awesome-core) | Offline tool manager — 234k narzędzi z awesome list; CLI/TUI/Web, dane pobierane przy pierwszym uruchomieniu |
+| ⭐ [matrix-command](https://github.com/technoporada/matrix-command) | Security recon dashboard — FastAPI + Matrix rain UI, scrapers, usługi sieciowe/prywatność |
 | [arek-bootstrap](https://github.com/technoporada/arek-bootstrap) | **Self-setup**: jeden skrypt stawia projekt od zera (venv, zależności, audyt) + generator nowych projektów |
-| [softhunt](https://github.com/technoporada/softhunt) | Agregator darmowych gier — Steam, Epic, itch, Reddit (FastAPI + SQLite) |
 | [deal-collector](https://github.com/technoporada/deal-collector) | Asynchroniczny agregator okazji — SteamDB, Epic, GOG, SharewareOnSale (aiohttp) |
 | [arek-scan-suite-demo](https://github.com/technoporada/arek-scan-suite-demo) | Edukacyjny skaner portów — tylko własne sieci, w granicach prawa |
 | [ArekBox-Installer](https://github.com/technoporada/ArekBox-Installer) | Modularny toolkit dla Linuxa — AI, Dev, Multimedia, Security |
 | [arekboxJP](https://github.com/technoporada/arekboxJP) | Alternatywna, japońska edycja narzędzi systemowych |
 | [Zofia TTS](https://github.com/technoporada/Zofia_TTS_assistant) | Polski asystent głosowy na Ollamie — TTS, newsy, muzyka, lokalne AI |
-| [Matrix Hacker Dashboard](https://github.com/technoporada/matrix-hacker-dashboard) | Recon dashboard: Node.js API + React frontend z Matrix rain, security-first |
-| [persona-arena](https://github.com/technoporada/persona-arena) | Arena walki AI person z TTS |
 | [secrets-ai](https://github.com/technoporada/secrets-ai) | Crowdsourced — "Tell me your secret" od różnych AI |
 | [neon-reel-fiesta](https://github.com/technoporada/neon-reel-fiesta) | Neon reel — eksperyment TypeScript |
 | [coffee-matrix](https://github.com/technoporada/coffee-matrix) | Matrix rain w czystym HTML/CSS/JS |
 | [Windows Security Toolkit](https://github.com/technoporada/windows-security-toolkit) | PowerShell skrypty: malware scan, registry repair, scanner |
 | [technoporada.github.io](https://technoporada.github.io) | Strona osobista — Matrix cyberpunk portfolio |
+
+🧊 *Archived: [persona-arena](https://github.com/technoporada/persona-arena) (zastąpione przez persona-arena-versus), [matrix-hacker-dashboard](https://github.com/technoporada/matrix-hacker-dashboard) (zastąpione przez matrix-command), [SofthuntHD](https://github.com/technoporada/SofthuntHD) (zastąpione przez softhunt).*
 
 ### 🎯 Moja filozofia (o tym, że piszę z AI)
 
