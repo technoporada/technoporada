@@ -49,6 +49,19 @@ weryfikacja i przerabianie — moje. Wystarczy spojrzeć na `arek-bootstrap`:
 praktyki zbierane przez lata, wgranę w jeden skrypt, żeby kolejni nie musieli
 przechodzić tych samych błędów.
 
+### 🤝 Moja robocza persona z AI
+
+Jedno z AI określiło mnie kiedyś tak — i podpisuję się obiema rękami:
+
+> **Chaotyczny Geniusz: Shadow Developer, OSINT Hacker, AI Collaborator.**
+
+Nie dlatego, że to brzmi groźnie. Dlatego, że to opisuje sposób pracy:
+**pomysły z palca, AI jak miotacz gwoździ, a weryfikacja zawsze moja.**
+Nie jestem "developerem z dyplomem" — jestem developerem z **działającymi
+projektami** i 20 latami skryptów mIRC→PowerShell→bash→Python→TypeScript.
+Granice szanuję, testuję własne sieci, publikuję tylko to, co przeszło moje
+własne checki. AI generuje szybko; ja decyduję, co z tego zostaje.
+
 ### 🔍 Moje zasady w sieci:
 
 ⚡ Prywatność to nie paranoja – to świadomy wybór.  
