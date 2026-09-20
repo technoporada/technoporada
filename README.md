@@ -26,10 +26,12 @@ Building tools that break things — so you know how to fix them.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**Unified Chaos Platform**](https://github.com/technoporada/unified-chaos-platform) | 10-module security testing suite with cyberpunk dashboard, WebSocket terminal, 3 themes, 6 languages | `v1.0` |
-| [**OSINT Toolkit**](https://github.com/technoporada/OSINT-Toolkit) | IP Scanner, Proxy Checker, SIP Hunter, Chaos Engine, SoftHunt, Matrix Dashboard | `private` |
+| [**Unified Chaos Platform**](https://github.com/technoporada/unified-chaos-platform) | 10-module security testing suite — cyberpunk dashboard, WebSocket terminal, 3 themes, 6 languages | `v1.0` 🔥 |
+| [**Awesome Core**](https://github.com/technoporada/awesome-core) | Offline tool manager — 234k tools from 2k awesome lists. CLI / TUI / Web | `v2.0` 🔥 |
 | [**WindowsToolkit-Pro**](https://github.com/technoporada/WindowsToolkit-Pro) | PowerShell scripts for Windows optimization, security, and setup | `public` |
 | [**security-rocket**](https://github.com/technoporada/security-rocket) | Linux hardening in pure bash — SSH/UFW/AppArmor/sysctl/AIDE | `public` |
+| [**OSINT Toolkit**](https://github.com/technoporada/OSINT-Toolkit) | IP Scanner, Proxy Checker, SIP Hunter, Chaos Engine, SoftHunt | `private` |
+| [**Zofia TTS**](https://github.com/technoporada/Zofia_TTS_assistant) | Polish voice assistant — Ollama, TTS/STT, local AI | `public` |
 
 ---
 
@@ -37,10 +39,10 @@ Building tools that break things — so you know how to fix them.
 
 ```
 Languages:  Python · Bash · PowerShell · JavaScript · TypeScript
-Frameworks: FastAPI · WebSockets · xterm.js · Gradio
+Frameworks: FastAPI · WebSockets · xterm.js · Gradio · Flask
 Security:   Penetration Testing · OSINT · Network Analysis · Traffic Obfuscation
 Tools:      Git · Docker · Linux · Nmap · Wireshark
-AI:         Ollama · LLM Integration · TTS/STT
+AI:         Ollama · LLM Integration · TTS/STT · AI Recommendations
 ```
 
 ---
@@ -69,8 +71,8 @@ Every tool I build has one purpose: **make the invisible visible** — whether i
 
 <div align="center">
 
-`[■□□□□□□□□□] Parsed 234k tools from awesome lists`
+`[■■■□□□□□□□] Parsed 234k tools from awesome lists`
 
-*Built with passion for network security* 🚀
+*Built with passion for network security & open source* 🚀
 
 </div>
